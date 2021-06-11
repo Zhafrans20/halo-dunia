@@ -1,6 +1,10 @@
 # halo-dunia
-Get in touch with GitHub Classroom
+Perkenalkan saya muhammad zhafrans ramdito biasa dipanggil zhafrans dari prodi geofisika angkatan 2020 disini saya sedang menggunakan github
 
-Silahkan diubah halaman ini untuk menjelaskan sedikit tentang siapa Anda.
+NAMA : MUHAMMAD ZHAFRANS RAMDITO
 
-As more informative this page is, as better score you will get.
+NIM :20/462147/PA/20119
+
+GEOFISIKA 2020
+
+EMAIL : muhammadzhafrans@mail.ugm.ac.id
